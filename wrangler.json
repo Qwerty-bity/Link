@@ -4,10 +4,11 @@
   "main": "index.js",
   "compatibility_date": "2024-04-01",
   "vars": {
-    "COLAB_IP": "136.118.183.39",
+    "COLAB_IP": "34.16.129.1",
     "COLAB_PORT": "8888"
   },
   "observability": {
     "enabled": true
   }
 }
+
